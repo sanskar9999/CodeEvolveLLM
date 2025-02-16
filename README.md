@@ -7,7 +7,7 @@
 
 A framework for fine-tuning local LLMs (Qwen2.5-coder 7B) to generate, debug, and optimize code solutions through automated iterative improvement.
 
-**Repository Link**: `https://github.com/yourusername/CodeEvolveLLM` (update with your actual URL)  
+**Repository Link**: `https://github.com/sanskar9999/CodeEvolveLLM` (update with your actual URL)  
 **Demo Link**: *Coming soon*
 
 ## 🎯 Project Overview
@@ -22,7 +22,7 @@ CodeEvolveLLM is an experimental system that combines:
 
 ## ✨ Key Features
 
-- **Autonomous Code Generation**: Generate initial solutions for DSA problems
+- **Autonomous Code Generation**: Generate initial solutions for coding problems
 - **Self-Debugging Mechanism**: Automatic error detection and solution refinement
 - **RL Training Pipeline**: Fine-tune on successful solution trajectories
 - **Local Execution**: Runs entirely on consumer hardware (7B parameter model)
@@ -32,7 +32,7 @@ CodeEvolveLLM is an experimental system that combines:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/CodeEvolveLLM
+git clone https://github.com/sanskar9999/CodeEvolveLLM
 cd CodeEvolveLLM
 
 # Install dependencies
@@ -61,7 +61,7 @@ python train.py --model qwen-7b --dataset generated_solutions.json
 ## 📂 Dataset Generation
 
 Our automated pipeline creates training data using:
-1. 1000+ DSA problems (easy to hard difficulty)
+1. 1000+ coding problems (easy to hard difficulty)
 2. Gemini Flash API for initial solution attempts
 3. Automated correctness verification
 4. Iterative debugging traces
@@ -100,7 +100,7 @@ def calculate_reward(solution):
 
 ## 📍 Roadmap
 
-- [ ] Phase 1: Basic Code Generation (MVP)
+- [✅] Phase 1: Basic Code Generation (MVP)
 - [ ] Phase 2: Automated Debugging System
 - [ ] Phase 3: RL Fine-tuning Pipeline
 - [ ] Phase 4: Performance Optimization
