@@ -18,7 +18,7 @@ CodeEvolveLLM is an experimental system that combines:
 - **RL Fine-tuning** based on solution correctness
 - **Iterative Debugging** through automated feedback loops
 
-![System Architecture](docs/system_flow.png) *Add architecture diagram later*
+![System Architecture](docs/system_flow.png) 
 
 ## ✨ Key Features
 
