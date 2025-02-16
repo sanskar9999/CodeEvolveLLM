@@ -7,7 +7,7 @@
 
 A framework for fine-tuning local LLMs (Qwen2.5-coder 7B) to generate, debug, and optimize code solutions through automated iterative improvement.
 
-**Repository Link**: `https://github.com/sanskar9999/CodeEvolveLLM` (update with your actual URL)  
+**Repository Link**: `https://github.com/sanskar9999/CodeEvolveLLM` 
 **Demo Link**: *Coming soon*
 
 ## 🎯 Project Overview
