@@ -100,7 +100,7 @@ def calculate_reward(solution):
 
 ## 📍 Roadmap
 
-- [✅] Phase 1: Basic Code Generation (MVP)
+- [x] Phase 1: Basic Code Generation (MVP)
 - [ ] Phase 2: Automated Debugging System
 - [ ] Phase 3: RL Fine-tuning Pipeline
 - [ ] Phase 4: Performance Optimization
