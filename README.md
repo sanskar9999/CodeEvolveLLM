@@ -1,4 +1,4 @@
-# CodeEvolveLLM 🚀
+# CodeEvolveLLM 🚀!
 
 [![Project License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-brightgreen)](https://python.org)
@@ -80,7 +80,7 @@ Our automated pipeline creates training data using:
 
 ## 🧠 Technical Approach
 
-### Reinforcement Learning Strategy
+### Reinforcement Learning(RL) Strategy
 ```python
 def calculate_reward(solution):
     correctness = 1 if passes_all_tests else 0
